@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { useStarWars } from "../Context/StarWaresContext";
 import styled from "styled-components";
 import { capitalizeFirstLetter } from "../Utilities/utilities";
